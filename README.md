@@ -10,13 +10,23 @@ Not only it enable users to save most of their time gathering data, but also hel
 
 ## Working
 
+### FrontEnd:
+HTML5, CSS3, Bootstrap4 has been used for structuring and presenting the website. JavaScript has been used for animating the page. 
+JavaScript fetch is used for requesting the API in-order to produce the dsired output.
+
+### BackEnd:
+Python Flask has been used for creating the REST API. 
+Flask CORS for respecting the CORS policy for accepting the HTTP methods.
+
+## Way to use
+
 ### Input
 **NewsWow** expects the following input from the users in-order to search for what is required by them:
 
 1. News topic to be searched.
 2. The type by which they want data to be extracted:
-  1. By days
-  2. By hours
+  ..1. By days
+  ..2. By hours
 3. The total time, including today, for the news.
 
 Input Image:
