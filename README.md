@@ -38,8 +38,8 @@ Output is in the format of an Excel Sheet with the following columns:
 ## Languages and Libraries Used
 
 <div style="display: flex;">
-<img src="https://www.python.org/static/img/python-logo@2x.png" width="120" alt="Python" style="margin-left: 10px"/>
-<img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width="120" alt="Flask" style="margin-left: 10px"/>
+<img src="https://www.python.org/static/img/python-logo@2x.png" width="120" alt="Python" style="margin-right: 5rem"/>
+<img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width="120" alt="Flask" style="margin-right: 5rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/300px-Unofficial_JavaScript_logo_2.svg.png" width="80" alt="JavaScript"/>
 </div>
 
@@ -52,7 +52,7 @@ Output is in the format of an Excel Sheet with the following columns:
 ## Tools Used
 
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="80" alt="VSCode" style="margin-left: 10px"/>
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="80" alt="VSCode" style="margin-right: 5rem"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="80" alt="Jupyter Notebook"/>
  </div>
 
