@@ -25,8 +25,8 @@ Flask CORS for accepting the HTTP methods.
 
 1. News topic to be searched.
 2. The type by which they want data to be extracted:
-  ..1. By days
-  ..2. By hours
+  By days or
+  By hours
 3. The total time, including today, for the news.
 
 Input Image:
