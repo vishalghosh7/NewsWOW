@@ -59,8 +59,8 @@ Output is in the format of an Excel Sheet with the following columns:
 
 <div style="display: flex">
   <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" width="150" alt="AWS">
+  <figcaption>AWS EC2</figcaption>
 </div>
-#### AWS EC2
 
 ## Tools Used
 
