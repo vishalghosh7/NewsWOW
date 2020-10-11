@@ -36,9 +36,9 @@ Output is in the format of an Excel Sheet with the following columns:
 
 
 ## Languages Used
-<img src="https://www.python.org/static/img/python-logo@2x.png" width="150" alt="Python"/>
-<img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width="150" alt="Flask"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/300px-Unofficial_JavaScript_logo_2.svg.png" width="150" alt="JavaScript"/>
+<img src="https://www.python.org/static/img/python-logo@2x.png" width="150" alt="Python">
+<img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width="150" alt="Flask">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/300px-Unofficial_JavaScript_logo_2.svg.png" width="100" alt="JavaScript">
 
 
 
