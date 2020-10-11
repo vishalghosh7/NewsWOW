@@ -12,11 +12,13 @@ Not only it enable users to save most of their time gathering data, but also hel
 
 ### FrontEnd:
 HTML5, CSS3, Bootstrap4 has been used for structuring and presenting the website. JavaScript has been used for animating the page. 
-JavaScript fetch is used for requesting the API in-order to produce the dsired output.
+
+JavaScript fetch is used for requesting the API in-order to produce the desired output.
 
 ### BackEnd:
 Python Flask has been used for creating the REST API. 
-Flask CORS for respecting the CORS policy for accepting the HTTP methods.
+
+Flask CORS for accepting the HTTP methods.
 
 ## Way to use
 
