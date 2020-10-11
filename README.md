@@ -46,14 +46,14 @@ Output is in the format of an Excel Sheet with the following columns:
 ## Deployment Platform
 
 <div style="display: flex">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="120" alt="AWS">
+  <img src="https://miro.medium.com/max/640/1*B9CIOrxdROHvtdmouQA1_A.png" width="80" alt="AWS">
 </div>
 
 ## Tools Used
 
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="120" alt="VSCode"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="120" alt="Jupyter Notebook"/>
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="80" alt="VSCode"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="80" alt="Jupyter Notebook"/>
  </div>
 
 
