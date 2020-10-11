@@ -58,7 +58,7 @@ Output is in the format of an Excel Sheet with the following columns:
 ## Deployment Platform
 
 <div style="display: flex">
-  <img src="https://miro.medium.com/max/640/1*B9CIOrxdROHvtdmouQA1_A.png" width="150" alt="AWS">
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" width="150" alt="AWS">
 </div>
 
 ## Tools Used
