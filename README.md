@@ -36,9 +36,8 @@ Output is in the format of an Excel Sheet with the following columns:
 
 
 ## Languages Used
-![alt text](https://www.python.org/static/img/python-logo@2x.png "Python")
+<img src="https://www.python.org/static/img/python-logo@2x.png" width="50" alt="Python"/>
 
-![alt text](
 
 
 
