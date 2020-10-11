@@ -11,6 +11,10 @@ body{
     background-color: rgba(245, 246, 250,1.0);
 }
 
+sup{
+    color: red;
+    /* font-size: 10px; */
+}
 
 .mainHeader{
     background-color: rgba(52, 73, 94, 1.0);
@@ -234,25 +238,40 @@ body{
     outline:none;
 }
 
-.extract{
+.extract, .extraction, .download{
     background-color: rgba(0, 184, 148,0.8);
     border: none;
     border-radius: 5px;
     padding: 0.5rem;
     color: #fff;
-    display: flex;
-    flex-direction: row;
     align-items: center;
 }
 
-.extract:focus{
+.download{
+    font-size: larger;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.extract:focus, .download:focus{
     outline: none;
 }
 
-.extract:hover{
+.extract:hover, .download:hover{
     background-color: rgba(0, 184, 148,1.0);
 }
 
+.extract:active, .download:active{
+    transform: translateY(2px);
+}
+
+.extraction{
+    display: none;
+}
+
+.extraction>span{
+    margin-bottom: 2px;
+}
 /* model 1 ends here */
 
 /* contact section starts here */
@@ -269,10 +288,13 @@ body{
 .reserved{
     font-size: small;
 }
-/* 
-.follow>span, .contribute>span{
-    font-size: medium;
-} */
+
+#numWarning, #fieldWarning{
+    font-size: 15px;
+    color: #eb4d4b;
+    display: none;
+}
+
 /* contact section ends here */
 
 /* responsiveness */
@@ -332,6 +354,12 @@ body{
         margin-top: 15px;
     }
 
+}
+
+@media only screen and (max-width: 450px){
+    .scrollToTop{
+        left: 88%;
+    }
 }
 
 
