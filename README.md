@@ -57,9 +57,9 @@ Output is in the format of an Excel Sheet with the following columns:
 
 ## Deployment Platform
 
-<div style="display: flex">
+<div>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" width="150" alt="AWS">
-  <figcaption>AWS EC2</figcaption>
+  <figcaption><strong>AWS EC2</strong></figcaption>
 </div>
 
 ## Tools Used
