@@ -19,7 +19,7 @@ Not only it enable users to save most of their time gathering data, but also hel
   2. By hours
 3. The total time, including today, for the news.
 Input Image:
-[!alt text](https://github.com/vishalghosh7/NewsWOW/blob/master/website.png "Website image")
+![alt text](https://github.com/vishalghosh7/NewsWOW/blob/master/website.png "Website image")
 
 ####Process
 Once the above input are provided by a user, **NewsWow API** searches Google News for all the relevant websites, and extracts the data from respective sites.
